@@ -1,0 +1,121 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1d,1d,"Beaucouzé/Val de Maine - Eventard/St Aubin la Sall",,3,,1FA22E,FFFFFF
+1s,1s,"Lac de Maine L'Hoirie - La Cité Chabada",,3,,1FA22E,FFFFFF
+2d,2d,"Trélazé - St Sylvain",,3,,006AB2,FFFFFF
+2s,2s,"Foch Maison Bleue - Gare de Trélazé",,3,,006AB2,FFFFFF
+3d,3d,"Mûrs Érigné - Monplaisir",,3,,EE7F00,FFFFFF
+3s,3s,"Mairie des Ponts de Cé - Avrillé Val d'Or",,3,,EE7F00,FFFFFF
+4d,4d,"Lorraine - St Barthélemy",,3,,93117E,FFFFFF
+4s,4s,"Foch Maison Bleue - St Barthélemy Verdun",,3,,93117E,FFFFFF
+01,01,"Belle Beille - Monplaisir",,3,,1FA22E,FFFFFF
+02,02,"Trélazé - St Sylvain / Banchais",,3,,006AB2,FFFFFF
+03,03,"Mûrs Érigné - Avrillé Adézière",,3,,EE7F00,FFFFFF
+04,04,"Beaucouzé Haute Roche / L'Atoll - St Barthélemy",,3,,93117E,FFFFFF
+05,05,"Circulaire Verneau Aquavita",,3,,FFDD00,000000
+06,06,"Chantourteau / Bouchemaine - ZI Est",,3,,555540,FFFFFF
+07,07,"Lorraine - Montreuil Juigné / Feneu",,3,,8E96C7,FFFFFF
+08,08,"Ponts de Cé / Vernusson - Aquavita / Hôpital CHU",,3,,BD7419,FFFFFF
+09,09,"Espace Anjou - Eventard",,3,,E2007A,FFFFFF
+10,10,"St Lézin /ZI Trélazé /Sorges - Schweitzer /Pôle 49",,3,,91C581,000000
+11,11,"Clinique de l'Anjou / Ste Gemmes - Lac de Maine",,3,,41A3D7,FFFFFF
+12,12,"Moulin Marcille - St Aubin la Salle",,3,,DE84B1,000000
+12d,12d,"Lorraine - Village Santé",,3,,DE84B1,000000
+13,13,"Gares Papin - Domaine du Val",,3,,84E515,FFFFFF
+14,14,"Belle Beille - Les Gares",,3,,E2001A,FFFFFF
+15,15,"Chantourteau - Les Gares",,3,,FF40B2,FFFFFF
+30,30,"Angers - Le Plessis Grammoire / Sarrigné / Bauné",,3,,E2007A,FFFFFF
+31,31,"Angers - Briollay",,3,,1FA22E,FFFFFF
+32,32,"Angers - Pellouailles les Vignes / Soucelles",,3,,006AB2,FFFFFF
+33,33,"Angers - Cantenay Epinard / Feneu",,3,,93117E,FFFFFF
+34,34,"Angers - La Meignanne / Le Plessis Macé",,3,,F29400,FFFFFF
+35,35,"Angers - St Lambert la Potherie /St Léger des Bois",,3,,008BD0,FFFFFF
+36,36,"Angers - St Jean Linières / St Martin Fouilloux",,3,,E2001A,FFFFFF
+37,37,"Angers - Savennières",,3,,122372,FFFFFF
+38,38,"Angers - St Lambert Potherie/St Clément Place",,3,,8DC9AB,000000
+39,39,"Angers - La Membrolle sur Longuenée",,3,,007952,FFFFFF
+41,41,"Angers - Soulaines sur Aubance",,3,,FFDD00,000000
+42,42,"Angers - Ecouflant",,3,,922224,FFFFFF
+43,43,"Angers - Soulaire et Bourg / Ecuillé",,3,,82939B,FFFFFF
+44,44,"Angers - La Daguenière / La Bohalle / St Mathurin",,3,,ED6DA6,000000
+45,45,"Angers - Brain / Andard / Corné",,3,,E84E0E,000000
+46,46,"Trélazé Gare - Brain / Andard / Corné",,3,,C7D301,000000
+101,101,"Jeanne d'Arc",,3,,FF00CD,000000
+102,102,"Jeanne d'Arc",,3,,FF00CD,000000
+103,103,"Jeanne d'Arc",,3,,FF00CD,000000
+104,104,"Jeanne d'Arc",,3,,FF00CD,000000
+105,105,"Jeanne d'Arc",,3,,FF00CD,000000
+111,111,"St Aubin La Salle",,3,,FF00CD,000000
+112,112,"St Aubin La Salle",,3,,FF00CD,000000
+113,113,"St Aubin La Salle",,3,,FF00CD,000000
+121,121,"Debussy",,3,,FF00CD,000000
+123,123,"Debussy",,3,,FF00CD,000000
+124,124,"Debussy",,3,,FF00CD,000000
+125,125,"Debussy",,3,,FF00CD,000000
+131,131,"Mounier",,3,,FF00CD,000000
+132,132,"Mounier",,3,,FF00CD,000000
+133,133,"Mounier",,3,,FF00CD,000000
+134,134,"Mounier",,3,,FF00CD,000000
+135,135,"Mounier",,3,,FF00CD,000000
+141,141,"Venaiserie",,3,,FF00CD,000000
+142,142,"Venaiserie",,3,,FF00CD,000000
+143,143,"Venaiserie",,3,,FF00CD,000000
+144,144,"Venaiserie",,3,,FF00CD,000000
+145,145,"Venaiserie",,3,,FF00CD,000000
+146,146,"Venaiserie",,3,,FF00CD,000000
+147,147,"Venaiserie",,3,,FF00CD,000000
+148,148,"Venaiserie",,3,,FF00CD,000000
+149,149,"Venaiserie",,3,,FF00CD,000000
+151,151,"Millot",,3,,FF00CD,000000
+152,152,"Millot",,3,,FF00CD,000000
+153,153,"Millot",,3,,FF00CD,000000
+154,154,"Millot",,3,,FF00CD,000000
+155,155,"Millot",,3,,FF00CD,000000
+156,156,"Millot",,3,,FF00CD,000000
+157,157,"Millot",,3,,FF00CD,000000
+158,158,"Millot",,3,,FF00CD,000000
+159,159,"Millot",,3,,FF00CD,000000
+160,160,"Rostand",,3,,FF00CD,000000
+161,161,"Villon",,3,,FF00CD,000000
+162,162,"Villon",,3,,FF00CD,000000
+163,163,"Villon",,3,,FF00CD,000000
+165,165,"Villon",,3,,FF00CD,000000
+166,166,"St Laud",,3,,FF00CD,000000
+171,171,"Collège La Cathédrale",,3,,FF00CD,000000
+172,172,"Chevrollier",,3,,FF00CD,000000
+173,173,"Mermoz",,3,,FF00CD,000000
+174,174,"Le Fresne",,3,,FF00CD,000000
+175,175,"Millot Ménard",,3,,FF00CD,000000
+176,176,"Narcé",,3,,FF00CD,000000
+181,181,"Monprofit",,3,,FF00CD,000000
+185,185,"Monprofit",,3,,FF00CD,000000
+191,191,"La Barre",,3,,FF00CD,000000
+192,192,"La Barre",,3,,FF00CD,000000
+193,193,"La Barre",,3,,FF00CD,000000
+195,195,"Monnet",,3,,FF00CD,000000
+201,201,"Jean Zay",,3,,FF00CD,000000
+202,202,"Jean Zay",,3,,FF00CD,000000
+203,203,"Jean Zay",,3,,FF00CD,000000
+204,204,"Jean Zay",,3,,FF00CD,000000
+205,205,"Jean Zay",,3,,FF00CD,000000
+206,206,"Janequin",,3,,FF00CD,000000
+211,211,"Joachim Du Bellay",,3,,FF00CD,000000
+212,212,"Joachim Du Bellay",,3,,FF00CD,000000
+213,213,"St Aubin La Salle",,3,,FF00CD,000000
+214,214,"ESAT Béjonnières",,3,,FF00CD,000000
+215,215,"Andard",,3,,FF00CD,000000
+216,216,"Bauné Ecole Publique",,3,,FF00CD,000000
+217,217,"Savennières",,3,,FF00CD,000000
+218,218,"Soucelles",,3,,FF00CD,000000
+219,219,"Ecole Primaire Villevêque",,3,,FF00CD,000000
+A,A,"Angers Roseraie - Avrillé Ardenne",,0,,E2001A,FFFFFF
+BALA,BALA,"La Baladine",,3,,E86474,000000
+i1,i_1,"IrigoFlex 1","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+i2,i_2,"IrigoFlex 2","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+i3,i_3,"IrigoFlex 3","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+i4,i_4,"IrigoFlex 4","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+i5,i_5,"IrigoFlex 5","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+i6,i_6,"IrigoFlex 6","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+i7,i_7,"IrigoFlex 7","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+i8,i_8,"IrigoFlex 8","Sur réservation: Service Irigo Flex sur réservation au 02.41.33.66.13",3,,E2007A,FFFFFF
+NavM,NavM,"Navette Marché de Monplaisir",,3,,FF598F,FFFFFF
+NUIT,NUIT,"Irigo Nuit",,3,,24346C,FFDD00

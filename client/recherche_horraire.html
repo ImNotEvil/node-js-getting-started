@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<title>TIRIGO</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+	<link href="ressources/css.css" rel="stylesheet" type="text/css">
+	<script src="ressources/script.js"></script>
+</head>
+
+<body onload="recherche_horraire()">
+
+	<!-- Navbar -->
+	<nav class="navbar navbar-default">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" onclick="window.history.back()">
+					<span class="glyphicon glyphicon-arrow-left"></span> BACK
+				</a>
+				<a class="navbar-brand" href="#">TIRIGO</a>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="stops.html">ARRET</a></li>
+					<li><a href="lignes.html">LIGNES</a></li>
+					<li><a href="index.html">FAVORIS</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- First Container -->
+	<div class="container-fluid ">
+		<div class="vertical-align">
+			<h3 class="col-sm-4">HORAIRES</h3>
+			<h3 class="col-sm-4" onclick="next_stop()">STOP <span class="glyphicon glyphicon-forward"></span></h3>
+			<h3 class="col-sm-4" onclick="toggle_fav()" id="favoris"><span class="glyphicon glyphicon-star-empty"></span></h3>
+
+		</div>
+		<div class="row" id="liste_ligne">
+		</div>
+	</div>
+
+
+	<!-- Footer -->
+	<footer class="container-fluid bg-4 text-center">
+		<p>Codé avec 💻 par Tibo le robot 🤖</a></p>
+	</footer>
+
+</body>
+
+</html>

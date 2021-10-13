@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+"RATP Dev","https://www.ratpdev.com/","FR",20210906,20211017,060921- 934
